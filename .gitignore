@@ -33,6 +33,7 @@ Thumbs.db
 
 # Large data files that exceed GitHub's 100MB limit
 data/sem3_topic2_nlp_formative1_data2.csv
+topic_05/formative_05_01/sem3_topic5_sna_formative1_data.csv.gz
 
 # Model files
 *.pth
