@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+.icloud
+
+# Data files (optional - uncomment if you don't want to track large data files)
+# *.csv
+# *.csv.gz
+# *.pkl
+# *.h5
+
+# Model files
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# Logs
+*.log
+logs/
+results/
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
