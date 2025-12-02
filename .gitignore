@@ -31,6 +31,9 @@ Thumbs.db
 # *.pkl
 # *.h5
 
+# Large data files that exceed GitHub's 100MB limit
+data/sem3_topic2_nlp_formative1_data2.csv
+
 # Model files
 *.pth
 *.pt
